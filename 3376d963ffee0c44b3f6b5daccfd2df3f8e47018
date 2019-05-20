@@ -1,0 +1,1 @@
+{"jobID":"d175f41b-2b78-26c8-a75b-d0d39ec75a8d","spec":{"type":"policy","cause":{"Message":"","User":"Demis Rizzotto \u003cdemis.rizzotto@exxoss.com\u003e"},"spec":{"dev:deployment/metricsdemo":{"add":{"automated":"true"},"remove":null}}},"result":null}
