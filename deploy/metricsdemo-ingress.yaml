@@ -14,7 +14,7 @@ spec:
       - backend:
           serviceName: metricsdemo
           servicePort: 3000
-        path: /mighty-fine
+        path: /
     host: weave.demo
 status:
   loadBalancer: {}
