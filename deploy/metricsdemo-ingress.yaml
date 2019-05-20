@@ -15,6 +15,6 @@ spec:
           serviceName: metricsdemo
           servicePort: 3000
         path: /mighty-fine
-    host: training-user-26.training.weave.works 
+    host: weave.demo
 status:
   loadBalancer: {}
