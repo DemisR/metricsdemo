@@ -15,5 +15,6 @@ spec:
           serviceName: metricsdemo
           servicePort: 3000
         path: /
+    host: training-user-26.training.weave.works 
 status:
   loadBalancer: {}
